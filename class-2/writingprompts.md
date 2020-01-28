@@ -10,4 +10,4 @@
 
 **What is the basemap-overlay paradigm and how are GL maps different?
 
-Head to the Mapbox GL JS examples page (https://www.mapbox.com/mapbox-gl-js/example/simple-map/) and pick two examples under the user interactions section. What kind of interactions do you see? Why might you use each of those interactions?
+**Head to the Mapbox GL JS examples page (https://www.mapbox.com/mapbox-gl-js/example/simple-map/) and pick two examples under the user interactions section. What kind of interactions do you see? Why might you use each of those interactions?
