@@ -1,6 +1,7 @@
 ### Data prep and analysis
 
 **Find at least two web mapping examples that allow for user analysis. For each example provide: 1) a link to the web map and 2) a description of the user analysis**
+
 1.http://www.therefugeeproject.org/#/2018
 This map, of refugee origins and destinations allows users multiple tools to visualize the data in different ways, such as migration destination, country of origin, and giving access to data in graph formats. The user can look at data as far back as 1980 for every country, and see major news from that country in that year which may have drawn migration or emigration. The user can thus draw their own conclusions about the phenomenon of migration and why it has happened in this way for the last 40 years.
 
