@@ -1,8 +1,11 @@
 ### Data prep and analysis
 
 **Find at least two web mapping examples that allow for user analysis. For each example provide: 1) a link to the web map and 2) a description of the user analysis**
-1.
-2.
+1.http://www.therefugeeproject.org/#/2018
+This map, of refugee origins and destinations allows users multiple tools to visualize the data in different ways, such as migration destination, country of origin, and giving access to data in graph formats. The user can look at data as far back as 1980 for every country, and see major news from that country in that year which may have drawn migration or emigration. The user can thus draw their own conclusions about the phenomenon of migration and why it has happened in this way for the last 40 years.
+
+2.https://evictionlab.org/map/#/2016?geography=states&type=er
+A map we have examined previously, the Eviction Lab map allows for a ton of user interaction with the data. It allows the user to go back to 2000 in order to compare current data, and even lets the user compare the data between multiple states. It is a great map that presents the data in a way that allows for much user analysis depending on what is needed.
 
 **Give an example of static data you might include on a web map. How is your example different from dynamic data?**
 An example of static data that might be inlcuded on a map would be, in terms of our project, the points regarding homeless services. These points are fixed and do not change with user interaction, and simply exist to illustrate or show the user something. Dynamic data is anaylzed as or right before it is being displayed, and may update depending on the user's interactions with the map.
